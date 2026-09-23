@@ -3,7 +3,7 @@ What are the names of all the team members?
 
  Divyansh Pannu
 
-[Team Member Name 2]
+ Anyogo Daniel
 
 [Team Member Name 3]
 
@@ -62,14 +62,14 @@ Value	Definition / Example
 4	[Quality / Everyone should focus on the tasks in which they are the best so that we can produce the best quality in less time.]
 5	[Communication / Everyone should communicate with each other whether to clarify something or ask something.]
 
-Name: [Team Member Name]
+Name: Daniel Anyogo
 
 Value	Definition / Example
-1	[Definition / Example]
-2	[Definition / Example]
-3	[Definition / Example]
-4	[Definition / Example]
-5	[Definition / Example]
+1	Communication / Everyone should communicate clearly about their progress, problems, and anything they need help with
+2	Consistency / Maintain a steady level of effort and quality throughout the project
+3	Learning / Be willing to learn new skills and improve when something is unfamiliar
+4	Respect / Everyone should respect each other's ideas, opinions, time, and contributions to the project
+5	Creativity / Be open to new ideas and different ways of solving problems
 Name: [Team Member Name]
 
 Value	Definition / Example
