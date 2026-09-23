@@ -91,7 +91,7 @@ By signing below, each team member agrees to the terms and conditions outlined i
 
 [Signature — Name 1] — [Date]
 
-[Signature — Name 2] — [Date]
+Daniel Anyogo — September 22nd, 2026
 
 [Signature — Name 3] — [Date]
 
